@@ -14,9 +14,9 @@
 
 ## 📚 Repositories
 
-- **group-policies** — Governance & group policies
-- **shared-infra** — Shared infrastructure configs
-- **group-docs** — Internal documentation
+- **[group-policies](https://github.com/pen-groups/group-policies)** — Governance & group policies
+- **[shared-infra](https://github.com/pen-groups/shared-infra)** — Shared infrastructure configs
+- **[group-docs](https://github.com/pen-groups/group-docs)** — Internal documentation
 
 ## 🔒 Access
 
